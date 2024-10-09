@@ -1,0 +1,13 @@
+ID	Age	Zip Code	Diagnosis
+1	22	13053	Cancer
+2	27	13053	Heart Disease
+3	29	13076	Cancer
+4	26	13068	Viral Infection
+5	50	14850	Heart Disease
+6	55	14865	Cancer
+7	49	14854	Cancer
+8	52	14867	Viral Infection
+9	32	13067	Heart Disease
+10	38	13477	Heart Disease
+11	37	13255	Cancer
+12	35	13555	Viral Infection
