@@ -6,4 +6,4 @@ To clone the repo in your kali linux directory use the command </br></br> ```git
 Next use the grep command recursively to search for the flag text instead of using greo individually on each file.</br></br>
 ``` grep -r "ACM" linux-for-dummies ```</br></br>
 ### Flag
-```ACM{dummies_n0_m0r3}```
+```ACM{dummy_n0_m0r3}```
